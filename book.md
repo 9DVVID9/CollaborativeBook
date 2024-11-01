@@ -1,3 +1,4 @@
+
 chapter-1-student1
 Section 1.1: The First Step
 
@@ -22,3 +23,12 @@ In the quiet spaces between stars and cities, between lost and found, there exis
 
 ## Section 1.4
  
+
+Section 1.3: Trials and Turns
+
+Challenges rose from shadows, testing resolve and strength. The path was never straight, curving with hidden twists. Each trial became a lesson, shaping their journey.
+
+Section 1.4: A Glimpse of Tomorrow
+
+In moments of quiet, they glimpsed the future ahead—a vision of purpose and place. Doubts lingered, but hope grew stronger. The path, though uncertain, was becoming clearer.
+
